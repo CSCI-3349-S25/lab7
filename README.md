@@ -2,7 +2,7 @@
 
 This lab demonstrates how to use DistilBERT, a light-weight version of BERT that uses many fewer resources while being nearly as accurate on important benchmarks This lab is due Friday, March 28, 11:59pm EDT.
 
-** Important Note: Please keep all of your output visible so that the TAs do not need to re-run your code and waste a lot of GPU time. As you've seen Google will cut off your GPU access if you use too much. The TAs need to be able to grade your code without running it.**
+**Important Note: Please keep all of your output visible so that the TAs do not need to re-run your code and waste a lot of GPU time. As you've seen Google will cut off your GPU access if you use too much. The TAs need to be able to grade your code without running it.**
 
 ### Overview 
 1. Clone the lab repo down to your own machine.
