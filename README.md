@@ -1,6 +1,6 @@
-# Lab 6: Headline topic clustering and classification
+# Lab 7: BERT for text classification
 
-In this lab, you'll be doing classification and topic clustering of headlines. This lab is due Wednesday, March 12, 11:59pm EST.
+This lab demonstrates how to use DistilBERT, a light-weight version of BERT that uses many fewer resources while being nearly as accurate on important benchmarks This lab is due Friday, March 28, 11:59pm EDT.
 
 ### Overview 
 1. Clone the lab repo down to your own machine.
@@ -11,11 +11,11 @@ In this lab, you'll be doing classification and topic clustering of headlines. T
 
 ### Part 1: Getting your own copy of the Colab notebook.
 
-[Here's a link to the Colab notebook for lab 6](https://colab.research.google.com/drive/1iUyZtXp7VuwkHHJErIZky-7E8TJedwLg?usp=sharing). Remember you need to save a copy in your drive to start editing!
+[Here's a link to the Colab notebook for lab 7](https://colab.research.google.com/drive/15lJCzuOWAK6gqv5QtJszVmo_7g4uMu6r?usp=sharing). Remember you need to save a copy in your drive to start editing!
 
 
 ### Part 2: Complete the Colab notebooak
-* Follow the instructions in the [Colab notebook for Lab 6](https://colab.research.google.com/drive/1iUyZtXp7VuwkHHJErIZky-7E8TJedwLg?usp=sharing) to create your own copy of the notebook.
+* Follow the instructions in the [Colab notebook for Lab 7](https://colab.research.google.com/drive/15lJCzuOWAK6gqv5QtJszVmo_7g4uMu6r?usp=sharing) to create your own copy of the notebook.
 * Edit the Colab notebook to complete the various tasks, as indicated in the notebook. Most of the time this will involve writing code in a code cell, but sometimes you will answer questions in a text cell. It will always be clear what you have to do.
 
 ### Part 3: Submit your work
@@ -25,4 +25,4 @@ In this lab, you'll be doing classification and topic clustering of headlines. T
 * **Do not alter the Colab notebook after the deadline.** If you do -- even just to fix a typo! -- it will look like you turned the notebook in late. If you happen to do it, let the TAs know so they can refer to the version you submitted to GitHub instead.
 
 
-**This assignment is due Wednesday, 3/19 @11:59pm EST**
+**This assignment is due Friday, 3/28 @11:59pm EDT**
